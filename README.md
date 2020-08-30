@@ -3,7 +3,7 @@ continous memory location.
 
 This makes easier to calculate the position of each element by simply adding an offset to the base value.
 
-## data_type array_name[array_size];
+<strong>data_type array_name[array_size];</strong>
 
 Arrays allow random access of elements. This makes accessing elements by
 position faster.
